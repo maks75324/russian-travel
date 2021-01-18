@@ -13,3 +13,8 @@
     padding-right: 16px;
   }
 }
+@media (max-width: 320px) {
+  .place__url-heading {
+    
+  }
+}
